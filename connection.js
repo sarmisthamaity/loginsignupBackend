@@ -27,3 +27,6 @@ knex.schema.hasTable("users").then((exists) => {
 
 // export the knex;
 module.exports = knex;
+
+
+// sdfghjk
